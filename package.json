@@ -13,7 +13,7 @@
         "start:debug": "npm run build && node scripts/start-debug.js",
         "deploy": "gh-pages -d -dist"
     },
-    "description": "A grayscale one page HTML theme for Bootstrap.",
+    "description": "Business Modern Theme",
     "keywords": [
         "css",
         "sass",
@@ -22,19 +22,16 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/theme/grayscale",
+    "homepage": "mikeyz89.github.io/businessModern",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-grayscale/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/MikeyZ89/businessModern",
+        "email": "michael.zlotkowski@gmail.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (https://davidmiller.io/)"
-    ],
+    "author": "Business Modern",
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-grayscale.git"
+        "url": "https://github.com/MikeyZ89/businessModern"
     },
     "dependencies": {
         "bootstrap": "4.5.3",
